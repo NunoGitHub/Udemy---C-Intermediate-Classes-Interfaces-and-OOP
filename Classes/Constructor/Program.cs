@@ -12,11 +12,11 @@ namespace CSharp
             Console.WriteLine(customer.Id);
 
             //OBJECT  initializer, initialize object without constructers
-            Customer c = new Customer { Id = 1 , Name = "Maria"};
+            Customer c = new Customer { Id = 1, Name = "Maria" };
             Console.WriteLine(c.Name);
 
             ParamsModifier modifier = new ParamsModifier();
-            int f =modifier.Add(1, 2, 3, 4);
+            int f = modifier.Add(1, 2, 3, 4);
             Console.WriteLine("sum  = " + f);
 
             int a = 0;
@@ -26,10 +26,15 @@ namespace CSharp
 
             Console.WriteLine(a);
 
-
-            Modifier.CallMethods();
-
-
+            try
+            {
+                Modifier.CallMethods();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine("error in the function "+e.StackTrace);
+            }
 
         }
     }

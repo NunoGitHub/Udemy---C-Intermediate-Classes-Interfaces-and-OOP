@@ -12,3 +12,4 @@ C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interf
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.pdb
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.genruntimeconfig.cache
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\ref\Constructor.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.sourcelink.json
