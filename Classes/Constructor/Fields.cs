@@ -9,21 +9,23 @@
 
         public Customer_()
         {
-            
+
         }
         public Customer_(int id)
         {
             this.Id = id;
         }
 
-        public Customer_(int id, string name): this(id)
+        public Customer_(int id, string name) : this(id)
         {
             this.Name = name;
         }
 
         public void Promote()
         {
-            orders.Add(new order ());
+            /*cant redeclare or reset the variable
+            orders = new List<order>();*/
+            orders.Add(new order());
         }
     }
 

@@ -1,0 +1,15 @@
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\bin\Debug\net7.0\AccessModifiers.exe
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\bin\Debug\net7.0\AccessModifiers.deps.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\bin\Debug\net7.0\AccessModifiers.runtimeconfig.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\bin\Debug\net7.0\AccessModifiers.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\bin\Debug\net7.0\AccessModifiers.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\AccessModifiers.sourcelink.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\AccessModifiers.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\refint\AccessModifiers.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\AccessModifiers.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\AccessModifiers.genruntimeconfig.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\AccessModifiers\obj\Debug\net7.0\ref\AccessModifiers.dll

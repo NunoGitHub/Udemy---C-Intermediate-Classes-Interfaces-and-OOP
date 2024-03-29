@@ -75,7 +75,7 @@ namespace Methods
                 UseParams();
                 Console.WriteLine();
                 int number;
-                //try parse does not throw an exception , returns a boolean
+                //try parse does not throw an exception , returns a boolean, and testing modifier out
                 bool result = int.TryParse("abcc", out number);
                 if (result)
                 {
