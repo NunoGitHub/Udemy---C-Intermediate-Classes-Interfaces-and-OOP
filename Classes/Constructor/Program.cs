@@ -1,5 +1,6 @@
 ﻿using Constructor;
 using Methods;
+using Fields_;
 
 namespace CSharp
 {
@@ -35,6 +36,12 @@ namespace CSharp
                 Console.WriteLine(e.Message);
                 Console.WriteLine("error in the function "+e.StackTrace);
             }
+            finally
+            {
+                Fields.CallFields();
+            }
+
+            
 
         }
     }

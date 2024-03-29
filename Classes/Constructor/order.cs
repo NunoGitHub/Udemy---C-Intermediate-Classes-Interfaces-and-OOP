@@ -1,4 +1,1 @@
-﻿namespace CSharp
-{
-    public class order { }
-}
+﻿public class order { }
