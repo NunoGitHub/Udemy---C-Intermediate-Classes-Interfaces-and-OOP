@@ -25,6 +25,8 @@
             //as opposed  to how they do what they are supposed to do.
             person.SetBirthDate(new DateTime(1996, 1, 1));
             Console.WriteLine(person.GetBirthDate().ToString());
+
+            Properties.CallProperties();
         }
     }
 }

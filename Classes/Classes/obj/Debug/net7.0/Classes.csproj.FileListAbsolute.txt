@@ -7,6 +7,7 @@ C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interf
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Classes\obj\Debug\net7.0\Classes.sourcelink.json
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Classes\obj\Debug\net7.0\Classes.dll
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Classes\obj\Debug\net7.0\refint\Classes.dll
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Classes\obj\Debug\net7.0\Classes.pdb

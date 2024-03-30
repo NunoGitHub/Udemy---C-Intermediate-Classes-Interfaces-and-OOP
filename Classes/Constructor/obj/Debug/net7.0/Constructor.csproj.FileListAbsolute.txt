@@ -7,9 +7,9 @@ C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interf
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfoInputs.cache
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfo.cs
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.sourcelink.json
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.dll
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\refint\Constructor.dll
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.pdb
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.genruntimeconfig.cache
 C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\ref\Constructor.dll
-C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Constructor\obj\Debug\net7.0\Constructor.sourcelink.json
