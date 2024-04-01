@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{9FBEC6C1-D9EB-4F29-B62C-D4299C1A2AD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{213A63F7-4CE5-45F6-BF7B-D232677B3B76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexers", "Indexers\Indexers.csproj", "{213A63F7-4CE5-45F6-BF7B-D232677B3B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1_Stop_Watch", "Exercise_1_Stop_Watch\Exercise_1_Stop_Watch.csproj", "{FEAC897C-1D01-4886-BEA9-219E99BE68CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2_SatckOverflowPost", "SatckOverflowPost\Exercise_2_SatckOverflowPost.csproj", "{8E810DC7-449C-4E67-B67D-35C897E0A4E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{213A63F7-4CE5-45F6-BF7B-D232677B3B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{213A63F7-4CE5-45F6-BF7B-D232677B3B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{213A63F7-4CE5-45F6-BF7B-D232677B3B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAC897C-1D01-4886-BEA9-219E99BE68CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAC897C-1D01-4886-BEA9-219E99BE68CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAC897C-1D01-4886-BEA9-219E99BE68CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAC897C-1D01-4886-BEA9-219E99BE68CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E810DC7-449C-4E67-B67D-35C897E0A4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E810DC7-449C-4E67-B67D-35C897E0A4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E810DC7-449C-4E67-B67D-35C897E0A4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E810DC7-449C-4E67-B67D-35C897E0A4E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

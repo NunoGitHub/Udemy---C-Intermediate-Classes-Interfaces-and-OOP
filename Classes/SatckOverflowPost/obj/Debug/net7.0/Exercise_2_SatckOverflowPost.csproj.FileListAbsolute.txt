@@ -1,0 +1,15 @@
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\bin\Debug\net7.0\Exercise_2_SatckOverflowPost.exe
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\bin\Debug\net7.0\Exercise_2_SatckOverflowPost.deps.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\bin\Debug\net7.0\Exercise_2_SatckOverflowPost.runtimeconfig.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\bin\Debug\net7.0\Exercise_2_SatckOverflowPost.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\bin\Debug\net7.0\Exercise_2_SatckOverflowPost.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\Exercise_2_SatckOverflowPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\Exercise_2_SatckOverflowPost.AssemblyInfoInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\Exercise_2_SatckOverflowPost.AssemblyInfo.cs
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\Exercise_2_SatckOverflowPost.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\Exercise_2_SatckOverflowPost.sourcelink.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\Exercise_2_SatckOverflowPost.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\refint\Exercise_2_SatckOverflowPost.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\Exercise_2_SatckOverflowPost.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\Exercise_2_SatckOverflowPost.genruntimeconfig.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\SatckOverflowPost\obj\Debug\net7.0\ref\Exercise_2_SatckOverflowPost.dll

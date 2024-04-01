@@ -1,0 +1,15 @@
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\bin\Debug\net7.0\Exercise_1_Stop_Watch.exe
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\bin\Debug\net7.0\Exercise_1_Stop_Watch.deps.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\bin\Debug\net7.0\Exercise_1_Stop_Watch.runtimeconfig.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\bin\Debug\net7.0\Exercise_1_Stop_Watch.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\bin\Debug\net7.0\Exercise_1_Stop_Watch.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\Exercise_1_Stop_Watch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\Exercise_1_Stop_Watch.AssemblyInfoInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\Exercise_1_Stop_Watch.AssemblyInfo.cs
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\Exercise_1_Stop_Watch.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\Exercise_1_Stop_Watch.sourcelink.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\Exercise_1_Stop_Watch.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\refint\Exercise_1_Stop_Watch.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\Exercise_1_Stop_Watch.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\Exercise_1_Stop_Watch.genruntimeconfig.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Classes\Exercise_1_Stop_Watch\obj\Debug\net7.0\ref\Exercise_1_Stop_Watch.dll
