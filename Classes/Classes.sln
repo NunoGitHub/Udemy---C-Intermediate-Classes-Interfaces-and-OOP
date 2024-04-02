@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiers", "AccessMo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexers", "Indexers\Indexers.csproj", "{213A63F7-4CE5-45F6-BF7B-D232677B3B76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1_Stop_Watch", "Exercise_1_Stop_Watch\Exercise_1_Stop_Watch.csproj", "{FEAC897C-1D01-4886-BEA9-219E99BE68CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1_Stop_Watch", "Exercise_1_Stop_Watch\Exercise_1_Stop_Watch.csproj", "{FEAC897C-1D01-4886-BEA9-219E99BE68CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2_SatckOverflowPost", "SatckOverflowPost\Exercise_2_SatckOverflowPost.csproj", "{8E810DC7-449C-4E67-B67D-35C897E0A4E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2_SatckOverflowPost", "SatckOverflowPost\Exercise_2_SatckOverflowPost.csproj", "{8E810DC7-449C-4E67-B67D-35C897E0A4E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
