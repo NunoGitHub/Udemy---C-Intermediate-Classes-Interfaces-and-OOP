@@ -1,6 +1,5 @@
 ﻿namespace Inheritance
 {
-
     class Program
     {
         public static void Main(string[] args)
@@ -9,6 +8,5 @@
             text.Width = 100;
             text.Copy();
         }
-
     }
 }
