@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7N1AL39T65c7fJ+F1HHM6Crxdxcwac8l+FwnEF/xIGP7eZrGtb9I0PMBEMLv284Y8bHBWUqSB7op8rs3hvSGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Inheritance\\Inheritance\\Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
