@@ -1,0 +1,15 @@
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\bin\Debug\net7.0\Exercise_DesignStack.exe
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\bin\Debug\net7.0\Exercise_DesignStack.deps.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\bin\Debug\net7.0\Exercise_DesignStack.runtimeconfig.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\bin\Debug\net7.0\Exercise_DesignStack.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\bin\Debug\net7.0\Exercise_DesignStack.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\Exercise_DesignStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\Exercise_DesignStack.AssemblyInfoInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\Exercise_DesignStack.AssemblyInfo.cs
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\Exercise_DesignStack.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\Exercise_DesignStack.sourcelink.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\Exercise_DesignStack.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\refint\Exercise_DesignStack.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\Exercise_DesignStack.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\Exercise_DesignStack.genruntimeconfig.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Inheritance\Exercise_DesignStack\obj\Debug\net7.0\ref\Exercise_DesignStack.dll

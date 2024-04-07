@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casting", "Casting\Casting.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceApp", "InheritanceApp\InheritanceApp.csproj", "{D29C3E76-3A92-4DE2-AA47-EB6174DD7712}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing", "Boxing\Boxing.csproj", "{ACEEEF53-6E1C-4B6C-B32D-E80A410B6148}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boxing", "Boxing\Boxing.csproj", "{ACEEEF53-6E1C-4B6C-B32D-E80A410B6148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_DesignStack", "Exercise_DesignStack\Exercise_DesignStack.csproj", "{097D8F4E-DB0D-4394-9243-D42D748ECEEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{ACEEEF53-6E1C-4B6C-B32D-E80A410B6148}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACEEEF53-6E1C-4B6C-B32D-E80A410B6148}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACEEEF53-6E1C-4B6C-B32D-E80A410B6148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097D8F4E-DB0D-4394-9243-D42D748ECEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097D8F4E-DB0D-4394-9243-D42D748ECEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097D8F4E-DB0D-4394-9243-D42D748ECEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097D8F4E-DB0D-4394-9243-D42D748ECEEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
