@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WAHRqfcniGTkl4YT08XnIBGWmZJbYu2iGPbhM9meaWPUS+YCid+1YAYHjV9vETZUb9zbCf8tmnCNm25zYx4vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
