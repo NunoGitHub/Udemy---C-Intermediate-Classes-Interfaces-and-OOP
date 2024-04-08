@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IGbeRCLCJd5cRcabI/aH44g7phxTy7cqMnGs+l6eCrHYzJlJrYtNiBfcvucjaUjs/LffIAT4/lnqBnlwMsiOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Polymorphism\\AbstractClasses\\AbstractClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\nunoa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

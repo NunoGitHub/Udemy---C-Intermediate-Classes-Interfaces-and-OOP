@@ -1,0 +1,15 @@
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\bin\Debug\net7.0\AbstractClasses.exe
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\bin\Debug\net7.0\AbstractClasses.deps.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\bin\Debug\net7.0\AbstractClasses.runtimeconfig.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\bin\Debug\net7.0\AbstractClasses.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\bin\Debug\net7.0\AbstractClasses.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\AbstractClasses.sourcelink.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\AbstractClasses.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\refint\AbstractClasses.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\AbstractClasses.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\AbstractClasses.genruntimeconfig.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\AbstractClasses\obj\Debug\net7.0\ref\AbstractClasses.dll
