@@ -1,0 +1,15 @@
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\bin\Debug\net7.0\SealedClasses.exe
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\bin\Debug\net7.0\SealedClasses.deps.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\bin\Debug\net7.0\SealedClasses.runtimeconfig.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\bin\Debug\net7.0\SealedClasses.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\bin\Debug\net7.0\SealedClasses.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\SealedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\SealedClasses.AssemblyInfoInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\SealedClasses.AssemblyInfo.cs
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\SealedClasses.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\SealedClasses.sourcelink.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\SealedClasses.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\refint\SealedClasses.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\SealedClasses.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\SealedClasses.genruntimeconfig.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Polymorphism\SealedClasses\obj\Debug\net7.0\ref\SealedClasses.dll
