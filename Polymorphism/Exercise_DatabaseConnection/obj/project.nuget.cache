@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yyURbPmMyPzw0khEIoNhAZXVuKMXkqL+kMIVpT6skn/OwwMx1mlkM1ESnFADncqTgRv6DLWclDROexUqwkd2hg==",
+  "dgSpecHash": "H3o0czpD4PckkufzKtTngLB69Eju/gwOyKZ6RUt00SQZ1O+PJ97oLzIwp2ZH/Jcjs5Ki/mcXDUd/bG/ipGD+bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Polymorphism\\Exercise_DatabaseConnection\\Exercise_DatabaseConnection.csproj",
+  "projectFilePath": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Polymorphism\\Exercise_DatabaseConnection\\Exercise_DatabaseConnectionCommand.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nunoa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nunoa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

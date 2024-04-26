@@ -1,4 +1,5 @@
-﻿namespace DatabaseConnection
+﻿
+namespace DatabaseConnection
 {
 
     public abstract class DbConnection : IDisposable
@@ -23,6 +24,6 @@
 
         public abstract void Query(string query);
 
-
+        
     }
 }

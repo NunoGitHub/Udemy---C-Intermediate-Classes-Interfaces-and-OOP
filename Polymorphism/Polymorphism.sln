@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClasses", "Abstract
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SealedClasses", "SealedClasses\SealedClasses.csproj", "{F7DF0F5F-A254-4903-947A-317DA37B0A40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_DatabaseConnection", "Exercise_DatabaseConnection\Exercise_DatabaseConnection.csproj", "{93869B23-F798-4740-AC44-EEA6BCE5E028}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_DatabaseConnectionCommand", "Exercise_DatabaseConnection\Exercise_DatabaseConnectionCommand.csproj", "{93869B23-F798-4740-AC44-EEA6BCE5E028}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

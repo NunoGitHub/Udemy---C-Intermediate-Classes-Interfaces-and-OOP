@@ -2912,9 +2912,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Polymorphism\\Exercise_DatabaseConnection\\Exercise_DatabaseConnection.csproj",
-      "projectName": "Exercise_DatabaseConnection",
-      "projectPath": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Polymorphism\\Exercise_DatabaseConnection\\Exercise_DatabaseConnection.csproj",
+      "projectUniqueName": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Polymorphism\\Exercise_DatabaseConnection\\Exercise_DatabaseConnectionCommand.csproj",
+      "projectName": "Exercise_DatabaseConnectionCommand",
+      "projectPath": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Polymorphism\\Exercise_DatabaseConnection\\Exercise_DatabaseConnectionCommand.csproj",
       "packagesPath": "C:\\Users\\nunoa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nunoa\\Desktop\\trabalhos\\Courses\\Udemy - C# Intermediate Classes, Interfaces and OOP\\Polymorphism\\Exercise_DatabaseConnection\\obj\\",
       "projectStyle": "PackageReference",
