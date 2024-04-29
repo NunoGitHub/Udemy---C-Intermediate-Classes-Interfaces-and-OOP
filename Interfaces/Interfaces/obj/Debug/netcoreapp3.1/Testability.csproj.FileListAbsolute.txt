@@ -1,0 +1,5 @@
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Testability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Testability.AssemblyInfoInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Testability.AssemblyInfo.cs
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Testability.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Testability.sourcelink.json
