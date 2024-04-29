@@ -1,0 +1,15 @@
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\bin\Debug\net7.0\Extensability.exe
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\bin\Debug\net7.0\Extensability.deps.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\bin\Debug\net7.0\Extensability.runtimeconfig.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\bin\Debug\net7.0\Extensability.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\bin\Debug\net7.0\Extensability.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\Extensability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\Extensability.AssemblyInfoInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\Extensability.AssemblyInfo.cs
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\Extensability.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\Extensability.sourcelink.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\Extensability.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\refint\Extensability.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\Extensability.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\Extensability.genruntimeconfig.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Extensability\obj\Debug\net7.0\ref\Extensability.dll
