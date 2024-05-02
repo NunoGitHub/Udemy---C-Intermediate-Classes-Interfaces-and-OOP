@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Extensibility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeb42ef5c62ebb8eb0908d83de558e4b0cc799b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a41cd4464338e7c6f1ef5ca4c532c4b2bad46e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Extensibility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Extensibility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

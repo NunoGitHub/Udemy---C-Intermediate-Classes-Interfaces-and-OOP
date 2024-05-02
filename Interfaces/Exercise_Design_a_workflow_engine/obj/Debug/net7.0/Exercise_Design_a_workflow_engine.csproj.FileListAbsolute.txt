@@ -1,0 +1,15 @@
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\bin\Debug\net7.0\Exercise_Design_a_workflow_engine.exe
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\bin\Debug\net7.0\Exercise_Design_a_workflow_engine.deps.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\bin\Debug\net7.0\Exercise_Design_a_workflow_engine.runtimeconfig.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\bin\Debug\net7.0\Exercise_Design_a_workflow_engine.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\bin\Debug\net7.0\Exercise_Design_a_workflow_engine.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\Exercise_Design_a_workflow_engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\Exercise_Design_a_workflow_engine.AssemblyInfoInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\Exercise_Design_a_workflow_engine.AssemblyInfo.cs
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\Exercise_Design_a_workflow_engine.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\Exercise_Design_a_workflow_engine.sourcelink.json
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\Exercise_Design_a_workflow_engine.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\refint\Exercise_Design_a_workflow_engine.dll
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\Exercise_Design_a_workflow_engine.pdb
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\Exercise_Design_a_workflow_engine.genruntimeconfig.cache
+C:\Users\nunoa\Desktop\trabalhos\Courses\Udemy - C# Intermediate Classes, Interfaces and OOP\Interfaces\Exercise_Design_a_workflow_engine\obj\Debug\net7.0\ref\Exercise_Design_a_workflow_engine.dll
