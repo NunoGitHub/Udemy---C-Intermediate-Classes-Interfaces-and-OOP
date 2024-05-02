@@ -1,6 +1,6 @@
 ﻿namespace WorkflowEngine
 {
-    public class EncodeVideo : IWorkflow
+    public class EncodeVideo : ITask
     {
         public void Execute()
         {

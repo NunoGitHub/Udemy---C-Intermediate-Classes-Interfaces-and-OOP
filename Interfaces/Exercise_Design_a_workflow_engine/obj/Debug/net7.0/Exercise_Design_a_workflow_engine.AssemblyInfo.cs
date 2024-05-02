@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercise_Design_a_workflow_engine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a41cd4464338e7c6f1ef5ca4c532c4b2bad46e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86fa7d7cb3184f0b876cb246cb358ca0934467a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercise_Design_a_workflow_engine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercise_Design_a_workflow_engine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

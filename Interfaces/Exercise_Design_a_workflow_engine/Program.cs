@@ -4,11 +4,13 @@
     {
         static void Main(string[] args)
         {
-            var work = new Engine();
-            work.ProcessData(new VideoUpload());
-            work.ProcessData(new EncodeVideo());
-            work.ProcessData(new MailService());
-            work.Run();
+            var work = new Workflow();
+            work.add(new VideoUpload());
+            work.add(new EncodeVideo());
+            work.add(new MailService());
+            work.add(new ChangeStatus());
+            var engine = new WorkFlowEngine();
+            engine.Run(work);
         }
     }
 }

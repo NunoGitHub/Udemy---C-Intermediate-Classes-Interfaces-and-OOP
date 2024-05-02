@@ -1,10 +1,10 @@
 ﻿namespace WorkflowEngine
 {
-    public class VideoUpload : ITask
+    public class ChangeStatus : ITask
     {
         public void Execute()
         {
-            Console.WriteLine("Upload video");
+            Console.WriteLine("processing...");
         }
     }
 }
